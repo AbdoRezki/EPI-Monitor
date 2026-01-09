@@ -1,0 +1,6 @@
+names:
+  0: no_helmet
+  1: helmet
+path: /kaggle/working/data
+train: ./
+val: ./
